@@ -151,7 +151,7 @@ section {
 
 .wide-area-img-2 {
   margin: 20px 0;
-  background-image: url("/images/wide2.png");
+  background-image: url("./images/wide2.png");
   height: 300px;
 }
 
